@@ -1,4 +1,3 @@
-# updated_voice_processing.py
 import whisper
 from gtts import gTTS
 import sounddevice as sd
